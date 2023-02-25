@@ -3,6 +3,10 @@ Aplicacion de precios de criptomonedas con React Native, Javascript y CoinGecko 
 
 ![image](https://user-images.githubusercontent.com/78452543/221340459-2fc002d8-b8f1-45a0-aade-f139cd691255.png)
 
+### API utilizada:
+
+https://www.coingecko.com/es/api/documentation
+
 ### Correr el proyecto en local:
 
 - Descargar el proyecto:
