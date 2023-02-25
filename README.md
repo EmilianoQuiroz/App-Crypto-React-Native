@@ -1,2 +1,2 @@
 # App-Crypto-React-Native
-Aplicacion de precios de criptomonedas con React Natyve, Typescript y CoinGecko API
+Aplicacion de precios de criptomonedas con React Native, Javascript y CoinGecko API
